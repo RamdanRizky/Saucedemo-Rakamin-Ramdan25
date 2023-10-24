@@ -81,19 +81,6 @@
             <version>1.2.5</version>
         </dependency>
     </dependencies>
-    <executions>
-        <execution>
-            <id>executions</id>
-            <phase>verify</phase>
-                <goal>
-                    <goal>generate</goal>
-                </goal>
-            <configuration>
-                <projectName>Saucedemo-Rakamin-Ramdan25</projectName>
-                <outputDirectory>${$MODULE_WORKING_DIR$}/cucumber-report-html</outputDirectory>
-                <cucumberOutput>${$MODULE_WORKING_DIR$}/cucumber.json</cucumberOutput>
-            </configuration>
-        </execution>
-    </executions>
+
 
 </project>
