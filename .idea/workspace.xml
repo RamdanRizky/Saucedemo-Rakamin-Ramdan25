@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:31">
+    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update 24 Okt 23 22:06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,7 +256,7 @@
       <workItem from="1698154346413" duration="906000" />
       <workItem from="1698155302615" duration="1078000" />
       <workItem from="1698156476223" duration="86000" />
-      <workItem from="1698156577790" duration="3031000" />
+      <workItem from="1698156577790" duration="3292000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 6 Rakamin Ramdan S">
       <option name="closed" value="true" />
@@ -347,7 +346,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698158236627</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Homework 6 Rakamin Ramdan S update 24 Okt 23 22:06">
+      <option name="closed" value="true" />
+      <created>1698159911575</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698159911575</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +393,8 @@
     <MESSAGE value="Homework 6 Rakamin Ramdan S update" />
     <MESSAGE value="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:04" />
     <MESSAGE value="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:31" />
+    <MESSAGE value="Homework 6 Rakamin Ramdan S update 24 Okt 23 22:06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 6 Rakamin Ramdan S update 24 Okt 23 22:06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
