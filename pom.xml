@@ -14,7 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-
     <dependencies>
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
@@ -82,10 +81,9 @@
             <version>1.2.5</version>
         </dependency>
     </dependencies>
-
-    <excecutions>
-        <excecution>
-            <id>excecution</id>
+    <executions>
+        <execution>
+            <id>executions</id>
             <phase>verify</phase>
                 <goal>
                     <goal>generate</goal>
@@ -95,7 +93,7 @@
                 <outputDirectory>${$MODULE_WORKING_DIR$}/cucumber-report-html</outputDirectory>
                 <cucumberOutput>${$MODULE_WORKING_DIR$}/cucumber.json</cucumberOutput>
             </configuration>
-        </excecution>
-    </excecutions>
+        </execution>
+    </executions>
 
 </project>

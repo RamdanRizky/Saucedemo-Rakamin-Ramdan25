@@ -67,9 +67,7 @@ public class LoginRamdan {
     @Then("I get an error massage {string}")
     public void i_get_an_error_massage(String errorMessage) throws AssertionError {
         WebElement errorElement = driver.findElement(By.cssSelector(".error-message-container.error"));
-        if (errorElement.getText().contains(errorMessage)) {
-
-        } else {
+        if (!errorElement.getText().contains(errorMessage)) {
             throw new AssertionError();
         }
         driver.close();
