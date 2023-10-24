@@ -75,12 +75,29 @@
             <version>3.0.0-M5</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-java -->
-        <dependency>
-            <groupId>info.cukes</groupId>
-            <artifactId>cucumber-java</artifactId>
-            <version>1.2.5</version>
-        </dependency>
     </dependencies>
 
 
-</project>
+    <build>
+    <plugins>
+        <plugin>
+            <groupId>net.masterthought</groupId>
+            <artifactId>maven-cucumber-reporting</artifactId>
+            <version>5.6.0</version> <!-- Sesuaikan versi yang digunakan -->
+            <executions>
+                <execution>
+                    <id>execution</id>
+                    <phase>verify</phase>
+                    <goals>
+                        <goal>generate</goal>
+                    </goals>
+                    <configuration cucumberOutput="${project.build.directory}/cucumber.json">
+                        <projectName>Saucedemo-Rakamin-Ramdan25</projectName> <!-- Nama proyek Anda -->
+                        <outputDirectory>${project.build.directory}/cucumber-report-html</outputDirectory>
+                    </configuration>
+                </execution>
+            </executions>
+        </plugin>
+    </plugins>
+    </build>
+    </project>
