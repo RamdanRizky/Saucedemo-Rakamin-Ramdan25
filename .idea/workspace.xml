@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RamdanRizky&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1a5d6279-40f7-43d1-8a65-9d1df0e467a5" />
+        <option name="url" value="https://github.com/RamdanRizky/saucedemo-automation-Rakamin.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2X4OYIDK1co6wXaRlnJpYsAqQd2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HW6_RamdanS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rara_/IdeaProjects/Homework-6-RamdanS/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="SauceDemo.cucumber.StepDef" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rara_\IdeaProjects\Homework-6-RamdanS\src\test\java\SauceDemo\cucumber" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rara_\IdeaProjects\Homework-6-RamdanS\src\test\java\SauceDemo\cucumber" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Runner (1)">
+    <configuration name="Scenario: Failed Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/features/login.feature" />
+      <option name="GLUE" value="SauceDemo.cucumber.StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Homework-6-RamdanS" />
+      <option name="NAME_FILTER" value="^Failed Login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Failed Login$&quot;" />
+      <shortenClasspath name="NONE" />
+      <option name="SUGGESTED_NAME" value="Scenario: Failed Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Success Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/features/login.feature" />
+      <option name="GLUE" value="SauceDemo.cucumber.StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Homework-6-RamdanS" />
+      <option name="NAME_FILTER" value="^Success Login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Success Login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Success Login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework-6-RamdanS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauceDemo.cucumber.TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauceDemo.cucumber.TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="SauceDemo.cucumber.TestRunner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauceDemo.cucumber.TestRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauceDemo.cucumber.TestRunner" />
+      <option name="MAIN_CLASS_NAME" value="SauceDemo.cucumber.TestRunner.Runner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SauceDemo.cucumber.StepDef in Homework-6-RamdanS" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework-6-RamdanS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SauceDemo.cucumber.StepDef.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SauceDemo.cucumber.StepDef" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Failed Login" />
+      <item itemvalue="Cucumber Java.Scenario: Success Login" />
+      <item itemvalue="JUnit.Runner (1)" />
+      <item itemvalue="JUnit.Runner" />
+      <item itemvalue="JUnit.SauceDemo.cucumber.StepDef in Homework-6-RamdanS" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Failed Login" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: Success Login" />
+        <item itemvalue="JUnit.SauceDemo.cucumber.StepDef in Homework-6-RamdanS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="" />
+      <created>1697884935719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697884935719</updated>
+      <workItem from="1697884936641" duration="4459000" />
+      <workItem from="1697889604745" duration="23528000" />
+      <workItem from="1697968645202" duration="3143000" />
+      <workItem from="1697971866947" duration="542000" />
+      <workItem from="1697972561767" duration="2446000" />
+      <workItem from="1697975035030" duration="1455000" />
+      <workItem from="1697977068824" duration="600000" />
+      <workItem from="1697977700446" duration="679000" />
+      <workItem from="1697979065626" duration="40000" />
+      <workItem from="1697980758001" duration="51000" />
+      <workItem from="1697980823386" duration="56000" />
+      <workItem from="1698019587443" duration="87000" />
+      <workItem from="1698066469125" duration="1392000" />
+      <workItem from="1698071375565" duration="343000" />
+      <workItem from="1698071756872" duration="87000" />
+      <workItem from="1698071872658" duration="599000" />
+      <workItem from="1698148463522" duration="2331000" />
+      <workItem from="1698150820843" duration="75000" />
+      <workItem from="1698150928341" duration="790000" />
+      <workItem from="1698152332494" duration="59000" />
+      <workItem from="1698152648121" duration="229000" />
+      <workItem from="1698152923402" duration="327000" />
+    </task>
+    <task id="LOCAL-00001" summary="Homework 6 Rakamin Ramdan S">
+      <option name="closed" value="true" />
+      <created>1697969720466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697969720466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework 6 Rakamin Ramdan S">
+      <option name="closed" value="true" />
+      <created>1697975387114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697975387114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework 6 Rakamin Ramdan S">
+      <option name="closed" value="true" />
+      <created>1697977099742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697977099742</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework 6 Rakamin Ramdan S">
+      <option name="closed" value="true" />
+      <created>1697977110840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697977110840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework 6 Rakamin Ramdan S update">
+      <option name="closed" value="true" />
+      <created>1697977434018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697977434018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework 6 Rakamin Ramdan S update">
+      <option name="closed" value="true" />
+      <created>1698071654446</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698071654446</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework 6 Rakamin Ramdan S update">
+      <option name="closed" value="true" />
+      <created>1698148732857</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698148732857</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:javax.enterprise:cdi-api" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework 6 Rakamin Ramdan S" />
+    <MESSAGE value="Homework 6 Rakamin Ramdan S update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 6 Rakamin Ramdan S update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/TestRunner/Runner.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.AssertionError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
