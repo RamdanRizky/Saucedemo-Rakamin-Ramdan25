@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update" />
+    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/StepDef/LoginRamdan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/StepDef/LoginRamdan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/TestRunner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/TestRunner/Runner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,7 +64,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/HW6_RamdanS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -86,7 +91,7 @@
       <recent name="C:\Users\rara_\IdeaProjects\Homework-6-RamdanS\src\test\java\SauceDemo\cucumber" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Runner (1)">
+  <component name="RunManager" selected="JUnit.Runner">
     <configuration name="Scenario: Failed Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/features/login.feature" />
@@ -128,7 +133,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Success checkout" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/features/login.feature" />
+      <option name="GLUE" value="SauceDemo.cucumber.StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Homework-6-RamdanS" />
+      <option name="NAME_FILTER" value="^Success checkout$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Success checkout$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Success checkout" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework-6-RamdanS" />
       <extension name="coverage">
         <pattern>
@@ -138,6 +163,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="SauceDemo.cucumber.TestRunner" />
       <option name="MAIN_CLASS_NAME" value="SauceDemo.cucumber.TestRunner.Runner" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,20 +198,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Cucumber Java.Scenario: Success checkout" />
       <item itemvalue="Cucumber Java.Scenario: Failed Login" />
       <item itemvalue="Cucumber Java.Scenario: Success Login" />
-      <item itemvalue="JUnit.Runner (1)" />
       <item itemvalue="JUnit.Runner" />
       <item itemvalue="JUnit.SauceDemo.cucumber.StepDef in Homework-6-RamdanS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Runner (1)" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: Success checkout" />
         <item itemvalue="Cucumber Java.Scenario: Failed Login" />
         <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Scenario: Success Login" />
-        <item itemvalue="JUnit.SauceDemo.cucumber.StepDef in Homework-6-RamdanS" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +256,8 @@
       <workItem from="1698152332494" duration="59000" />
       <workItem from="1698152648121" duration="229000" />
       <workItem from="1698152923402" duration="327000" />
+      <workItem from="1698154346413" duration="906000" />
+      <workItem from="1698155302615" duration="574000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 6 Rakamin Ramdan S">
       <option name="closed" value="true" />
@@ -322,11 +361,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/TestRunner/Runner.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.AssertionError" package="java.lang" />

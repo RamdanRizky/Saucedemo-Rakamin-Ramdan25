@@ -5,15 +5,10 @@ import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.junit.Assert; // Import the Assert class
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.concurrent.TimeUnit;
-
-import static org.junit.Assert.assertTrue;
 
 public class LoginRamdan {
     WebDriver driver;
@@ -39,6 +34,7 @@ public class LoginRamdan {
 
     @And("Click login button")
     public void click_login_button() {
+
         driver.findElement(By.name("login-button")).click();
     }
 
@@ -71,7 +67,7 @@ public class LoginRamdan {
     @Then("I get an error massage {string}")
     public void i_get_an_error_massage(String errorMessage) throws AssertionError {
         WebElement errorElement = driver.findElement(By.cssSelector(".error-message-container.error"));
-        if ((errorElement.getText().contains(errorMessage))) {
+        if (errorElement.getText().contains(errorMessage)) {
 
         } else {
             throw new AssertionError();
@@ -81,18 +77,18 @@ public class LoginRamdan {
     }
 
     @Then("I Click checkout button")
-    public void iClickCheckoutButton() {
+    public void i_click_checkout_button() {
         driver.findElement(By.cssSelector(".checkout_button")).click();
     }
 
     @When("I insert firstname")
-    public void iInsertFirstname() {
+    public void i_insert_firstname() {
         WebElement firstnameInput = driver.findElement(By.id("first-name")); // Adjust the locator based on your HTML structure
         firstnameInput.sendKeys("John"); // Replace "John" with the firstname you want to input
     }
 
     @And("I insert lastname")
-    public void iInsertLastname() {
+    public void i_insert_lastname() {
         WebElement lastNameInput = driver.findElement(By.id("last-name")); // Adjust the locator based on your HTML structure
         lastNameInput.sendKeys("Doe"); // Replace "Doe" with the last name you want to input
     }
@@ -104,7 +100,7 @@ public class LoginRamdan {
     }
 
     @Then("I Click continue button")
-    public void iClickContinueButton() {
+    public void i_click_continue_button() {
         driver.findElement(By.id("continue")).click();
         try {
             Thread.sleep(2000);
@@ -115,17 +111,19 @@ public class LoginRamdan {
     }
 
     @And("I directed to overview page")
-    public void iDirectedToOverviewPage() {
+    public void i_directed_to_overview_page() {
     }
 
     @Then("I Click continue finish")
-    public void iClickContinueFinish() {
+    public void i_click_continue_finish() {
         driver.findElement(By.name("finish")).click();
     }
 
     @And("I directed to back to homepage")
     public void i_directed_to_back_to_homepage() {
         driver.findElement(By.name("back-to-products")).click();
+        driver.close();
+        driver.quit();
     }
 
 }

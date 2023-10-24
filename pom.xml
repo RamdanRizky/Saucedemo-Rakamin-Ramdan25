@@ -91,7 +91,7 @@
                     <goal>generate</goal>
                 </goal>
             <configuration>
-                <projectName>saucedemo-automation-Rakamin</projectName>
+                <projectName>Saucedemo-Rakamin-Ramdan25</projectName>
                 <outputDirectory>${$MODULE_WORKING_DIR$}/cucumber-report-html</outputDirectory>
                 <cucumberOutput>${$MODULE_WORKING_DIR$}/cucumber.json</cucumberOutput>
             </configuration>
