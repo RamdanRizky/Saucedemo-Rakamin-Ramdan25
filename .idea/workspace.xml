@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/StepDef/LoginRamdan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/StepDef/LoginRamdan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/TestRunner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SauceDemo/cucumber/TestRunner/Runner.java" afterDir="false" />
-    </list>
+    <list default="true" id="d7f37899-aae9-487a-8efc-ea535a5de872" name="Changes" comment="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:04" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,7 +252,7 @@
       <workItem from="1698152648121" duration="229000" />
       <workItem from="1698152923402" duration="327000" />
       <workItem from="1698154346413" duration="906000" />
-      <workItem from="1698155302615" duration="574000" />
+      <workItem from="1698155302615" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="Homework 6 Rakamin Ramdan S">
       <option name="closed" value="true" />
@@ -315,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698148732857</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:04">
+      <option name="closed" value="true" />
+      <created>1698156271624</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698156271624</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,7 +355,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework 6 Rakamin Ramdan S" />
     <MESSAGE value="Homework 6 Rakamin Ramdan S update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 6 Rakamin Ramdan S update" />
+    <MESSAGE value="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 6 Rakamin Ramdan S update 24 Okt 23 21:04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
